@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "t1_mod",
+    "name": "T1 Update Mod",
+    "description": "专为汉化的模组",
+    "version": "1.12.2-1.0.1",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["T1"],
+    "credits": "所有参与汉化的玩家，还有参与代码编写的Laosun ，以及提供了配置文件修改思维的 xiaomiao",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
