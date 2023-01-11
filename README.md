@@ -31,23 +31,25 @@
   
   相关信息
   ====
-[MCBBS 推广宣传帖](暂无)
-[MC 百科上的自动汉化更新模组](https://mcmod.cn/class/xxx.html)
+[MCBBS 推广宣传帖](暂无)  
+[MC 百科上的自动汉化更新模组](https://mcmod.cn/class/xxx.html)  
+  
   翻译资源库
+  ====
 
 工具
-====
+===
 [Saladict 沙拉查词](https://saladict.crimx.com/)  
 [汉化小工具](https://tt.nullpointer.icu) - LANG 转 JSON，JSON 更新，JSON 补全。  
 [Octotree](https://www.octotree.io/) - 树型展示 GitHub 项目文件结构，懒加载，独立收藏系统。  
 
 词典  
-====
+===
 [剑桥词典](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/)丨[谷歌词典](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja?hl=zh-CN)
 丨[词源在线](https://www.etymonline.com/cn)  
 
 MC 相关翻译资源  
-====
+===
 [Minecraft Wiki：译名标准化](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki:%E8%AF%91%E5%90%8D%E6%A0%87%E5%87%86%E5%8C%96) - 原版词汇中英对照。  
 [Minecraft Wiki：译名标准化/历史](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki:%E8%AF%91%E5%90%8D%E6%A0%87%E5%87%86%E5%8C%96/%E5%8E%86%E5%8F%B2) - 原版词汇变更历史。  
 [Minecraft 模组翻译参考词典](https://dict.mcmod.cn/) - 以英文检索本仓库中的翻译条目。  
